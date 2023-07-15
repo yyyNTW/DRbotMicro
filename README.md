@@ -1,6 +1,6 @@
 # mbit
 
-Extension for Yahboom_mbit_en V3.0.4
+Extension for YYY robot V1
 
 ## License
 
